@@ -1,0 +1,26 @@
+[
+        {
+         "id":1,
+        "username": "Karedla1@gmail.com",
+        "password": "admin@123"
+        },
+
+        {
+        "id":2,
+        "username": "Karedla2@gmail.com",
+        "password": "admin@123"
+        },
+
+        {
+         "id":3,
+        "username": "Karedla3@gmail.com",
+        "password": "admin@123"
+        },
+
+        {
+         "id":4,
+        "username": "Karedla4@gmail.com",
+        "password": "admin@123"
+        }
+]
+

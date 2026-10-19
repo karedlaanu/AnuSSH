@@ -1,0 +1,13 @@
+{
+
+"username": "Karedla@gmail.com",
+"password": "admin@123",
+"name": "Anusha",
+"interest": ["Cypress","Java","API"],
+"gender": "male",
+"address": {
+            "area":"Kompally",
+            "city":"Hyderabad",
+            "pincode":"500014"
+        }
+}
